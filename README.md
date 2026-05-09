@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 Open `app.py` and replace the API key placeholder:
 ```python
-API_KEY = "your_api_key_here"
+API_KEY = "0971f17a69c892069ca6d5e5ae40992e"
 ```
 
 **5. Run the app**
